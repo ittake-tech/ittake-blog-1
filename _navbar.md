@@ -1,2 +1,2 @@
 [Home](/#/)
-[me](profile.md)
+[About](profile.md)
