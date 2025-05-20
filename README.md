@@ -11,3 +11,5 @@
 - [作業日報](dailyreport.md)
 
 ## blog
+
+📘 Powered by [Docsify](https://docsify.js.org)
