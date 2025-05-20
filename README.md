@@ -10,6 +10,4 @@
 - [Python・ノーコード学習記録](learning.md)
 - [作業日報](dailyreport.md)
 
-## blog
-
 📘 Powered by [Docsify](https://docsify.js.org)
